@@ -1,6 +1,7 @@
 - Compile Game.java.
 - Compile and run AppServer.java.
 - Compile and run Client.java and follow instructions.
+- Run 2 seperate Client programs to play the game.
 
 I wrote and tested this using eclipse, and partially tested in CLI.
 
